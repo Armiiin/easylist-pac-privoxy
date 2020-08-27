@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Global HTTP Proxy</string>
+
+			<key>PayloadDisplayName</key>
+			<string>Global HTTP Proxy</string>
+
+			<key>PayloadIdentifier</key>
+			4abc9bf2-e895-11ea-adc1-0242ac120002
+			<string>com.apple.proxy.http.global.GENERATED_UUID_01</string>
+
+			<key>PayloadType</key>
+			<string>com.apple.proxy.http.global</string>
+
+			4abc9bf2-e895-11ea-adc1-0242ac120002
+			<key>PayloadUUID</key>
+			<string>GENERATED_UUID_01</string>
+
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+
+			<key>ProxyCaptiveLoginAllowed</key>
+			<true/>
+
+			<key>ProxyPACFallbackAllowed</key>
+			<false/>
+
+			<key>ProxyPACURL</key>
+			https://github.com/Armiiin/easylist-pac-privoxy/raw/master/proxy.pac
+			<string>URL_TO_YOUR_PAC_FILE</string>
+
+			<key>ProxyType</key>
+			<string>Auto</string>
+		</dict>
+	</array>
+
+	<key>PayloadDisplayName</key>
+	Armin Inc.
+	<string>PROFILE_NAME</string>
+	
+	<key>PayloadIdentifier</key>
+	903f9544-e895-11ea-adc1-0242ac120002
+	<string>your.adblock.proxy.name.GENERATED_UUID_02</string>
+	
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+
+	<key>PayloadType</key>
+	<string>Configuration</string>
+
+	<key>PayloadUUID</key>
+	997ea46a-e895-11ea-adc1-0242ac120002
+	<string>GENERATED_UUID_03</string>
+
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

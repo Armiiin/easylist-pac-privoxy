@@ -12,15 +12,15 @@
 			<string>Global HTTP Proxy</string>
 
 			<key>PayloadIdentifier</key>
-			4abc9bf2-e895-11ea-adc1-0242ac120002
-			<string>com.apple.proxy.http.global.GENERATED_UUID_01</string>
+			<!-- REPLACE GENERATED_UUID_01 -->
+			<string>com.apple.proxy.http.global.4abc9bf2-e895-11ea-adc1-0242ac120002</string>
 
 			<key>PayloadType</key>
 			<string>com.apple.proxy.http.global</string>
 
-			4abc9bf2-e895-11ea-adc1-0242ac120002
+			<!-- REPLACE GENERATED_UUID_01 -->
 			<key>PayloadUUID</key>
-			<string>GENERATED_UUID_01</string>
+			<string>4abc9bf2-e895-11ea-adc1-0242ac120002</string>
 
 			<key>PayloadVersion</key>
 			<integer>1</integer>
@@ -32,8 +32,8 @@
 			<false/>
 
 			<key>ProxyPACURL</key>
-			https://github.com/Armiiin/easylist-pac-privoxy/raw/master/proxy.pac
-			<string>URL_TO_YOUR_PAC_FILE</string>
+			<!-- REPLACE URL_TO_YOUR_PAC_FILE WITH THE LINK -->
+			<string>https://github.com/Armiiin/easylist-pac-privoxy/raw/master/proxy.pac</string>
 
 			<key>ProxyType</key>
 			<string>Auto</string>
@@ -41,12 +41,12 @@
 	</array>
 
 	<key>PayloadDisplayName</key>
-	Armin Inc.
-	<string>PROFILE_NAME</string>
+	<!-- ADD A NAME FOR YOUR PROFILE -->
+	<string>Armin AdBlock Inc.</string>
 	
 	<key>PayloadIdentifier</key>
-	903f9544-e895-11ea-adc1-0242ac120002
-	<string>your.adblock.proxy.name.GENERATED_UUID_02</string>
+	<!-- CREATE AN IDENTIFIER FOR YOUR PROFILE AND REPLACE GENERATED_UUID_02 -->
+	<string>your.adblock.proxy.name.903f9544-e895-11ea-adc1-0242ac120002</string>
 	
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
@@ -55,8 +55,8 @@
 	<string>Configuration</string>
 
 	<key>PayloadUUID</key>
-	997ea46a-e895-11ea-adc1-0242ac120002
-	<string>GENERATED_UUID_03</string>
+	<!-- REPLACE GENERATED_UUID_03 -->
+	<string>997ea46a-e895-11ea-adc1-0242ac120002</string>
 
 	<key>PayloadVersion</key>
 	<integer>1</integer>
